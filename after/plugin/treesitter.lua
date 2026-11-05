@@ -7,6 +7,8 @@ require("nvim-treesitter.configs").setup {
         "lua",
         "rust",
         "cpp",
+        "php",
+        "html",
     },
 
     sync_install = false,
